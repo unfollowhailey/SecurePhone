@@ -25,7 +25,7 @@
 - [OK] **`UserDAO.java`** (CRUD users)
 - [OK] **`MessageDAO.java`** (CRUD messages)
 - [OK] **`ContactDAO.java`**
-- [OK] **`DeviceTokenDAO.java`** 
+- [OK] **`DeviceTokenDAO.java`**
 
 ### **Images/files** → Stockage fichier dans `/serveur/images/`
 - [OK] API upload/download (si besoin)
