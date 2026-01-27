@@ -3,19 +3,19 @@
 ## 🟢 **PEUT FAIRE IMMÉDIATEMENT** (Sans dépendance)
 
 ### **1. DESIGN & ASSETS** (`client/resources/`)
-- [ ] **`images/`** *Hatsu seule* (icônes, logos, backgrounds)
-- [ ] **`sounds/`** *Hatsu seule* (sons interface)
+- [WIP] **`images/`** *Hatsu seule* (icônes, logos, backgrounds)
+- [OK] **`sounds/`** *Hatsu seule* (sons interface)
 
-### **2. UTILITAIRES UI** (`client/src/main/java/com/securephone/client/utils/`)
-- [ ] **`SoundPlayer.java`** *Hatsu seule*
-- [ ] **`NotificationManager.java`** *Hatsu seule*
+### **2. UTILITAIRES UI** (`client/src/main/java/com/securephone/client/utils/`)mc
+39bd268ltw1- [WIP] **`SoundPlayer.java`** *Hatsu seule*
+- [OK] **`NotificationManager.java`** *Hatsu seule*
 
 ### **3. GESTION UI** (`client/src/main/java/com/securephone/client/ui/`)
-- [ ] **`UIManager.java`** *Hatsu seule* (thèmes, styles)
+- [OK] **`UIManager.java`** *Hatsu seule* (thèmes, styles)
 
 ### **4. CONFIGURATION CLIENT**
-- [ ] **`client_config.json`** *Hatsu seule*
-- [ ] **`config.properties`** *Hatsu seule* (client side)
+- [OK] **`client_config.json`** *Hatsu seule*
+- [OK] **`config.properties`** *Hatsu seule* (client side)
 
 ---
 
