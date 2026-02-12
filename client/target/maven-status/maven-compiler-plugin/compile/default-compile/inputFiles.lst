@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 /opt/lampp/htdocs/SecurePhone/client/src/main/java/com/securephone/client/audio/OpusCodec.java
 /opt/lampp/htdocs/SecurePhone/client/src/main/java/com/securephone/client/ui/frames/MainFrame.java
@@ -38,6 +39,8 @@
 /opt/lampp/htdocs/SecurePhone/client/src/main/java/com/securephone/client/models/ChatMessage.java
 /opt/lampp/htdocs/SecurePhone/client/src/main/java/com/securephone/client/MainClient.java
 =======
+=======
+>>>>>>> client
 /home/kunigawa/GitHub/SecurePhone/client/src/main/java/com/securephone/shared/protocol/MessageType.java
 /home/kunigawa/GitHub/SecurePhone/client/src/main/java/com/securephone/client/security/KeyExchange.java
 /home/kunigawa/GitHub/SecurePhone/client/src/main/java/com/securephone/client/ui/components/ContactList.java
@@ -84,4 +87,7 @@
 /home/kunigawa/GitHub/SecurePhone/client/src/main/java/com/securephone/shared/protocol/AudioPacket.java
 /home/kunigawa/GitHub/SecurePhone/client/src/main/java/com/securephone/client/models/Contact.java
 /home/kunigawa/GitHub/SecurePhone/client/src/main/java/com/securephone/client/security/ClientCrypto.java
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> client

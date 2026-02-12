@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> client
 package com.securephone.client.network;
 
 import org.json.JSONObject;
@@ -82,4 +85,7 @@ public class ApiClient {
 		return sb.toString();
 	}
 }
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> client

@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> client
 package com.securephone.client.network;
 
 import com.securephone.client.models.ChatMessage;
@@ -374,4 +377,7 @@ public class ConnectionManager {
 		}
 	}
 }
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> client
